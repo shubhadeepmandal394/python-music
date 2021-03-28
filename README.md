@@ -14,7 +14,7 @@ of Python is highly desired in the computer science industry.
 To listen to my composition on Earsketch [click here](https://earsketch.gatech.edu/earsketch2/?sharing=SWqrasTvpVRczWpcxObaCw)
 
 In order to listen to my compostion, first click on the **Run** button in the Code Editor window, 
-then click on the **Play** button in the Digital Audio Workstation and enjoy my compososed music.
+then click on the **Play** button in the Digital Audio Workstation window and enjoy my compososed music.
 
 
 ## Skills Gained
