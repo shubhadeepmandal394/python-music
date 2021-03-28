@@ -10,6 +10,15 @@ of various programming languages. Python has become increasingly popular in comp
 of Python is highly desired in the computer science industry.
 ```
 
+## My EarSketch Project
+Listen to my composition on [Earsketch](https://earsketch.gatech.edu/earsketch2/?sharing=SWqrasTvpVRczWpcxObaCw)
+
+Click on **Earsketch** in the previous sentence, it will take you to my project on Earsketch
+
+In order to listen to my compostion, first click on the **Run** button in the Code Editor window, 
+then click on the **Play** button in the Digital Audio Workstation and enjoy my compososed music.
+
+
 ## Skills Gained
 
 ```diff
