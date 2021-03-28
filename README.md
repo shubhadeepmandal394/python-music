@@ -11,7 +11,7 @@ of Python is highly desired in the computer science industry.
 ```
 
 ## My Earsketch Project
-To listen to my composition on Earsketch [click here](https://earsketch.gatech.edu/earsketch2/?sharing=SWqrasTvpVRczWpcxObaCw)
+To listen to my composition on Earsketch [click here](https://earsketch.gatech.edu/earsketch2/?sharing=eujUKR2et6WAPQR9dPi3jg)
 
 In order to listen to my compostion, first click on the **Run** button in the Code Editor window, 
 then click on the **Play** button in the Digital Audio Workstation window and enjoy my compososed music.
